@@ -48,27 +48,6 @@ Below are screenshots showcasing the different pages and functionalities of the 
 5. Add New Member:
    ![Add Member](screenshots/member.png)
 
-## Installation
-
-To set up the Library Management System locally, follow these steps:
-
-```
-
-1. Clone the repository:
-    git clone https://github.com/HS831/frappe-lms.git
-    cd frappe-lms
-
-2. Install dependencies for both the frontend and backend:
-    pip install -r requirements.txt
-
-3. Create a virtual enviornment using
-    pipenv shell
-
-4. Start the application on localhost:5000
-    python app.py
-
-```
-
 
 ## Usage
 
