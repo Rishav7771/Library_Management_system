@@ -27,7 +27,7 @@ def get_all_books():
          'ratings_count': book.ratings_count,
          'text_reviews-count': book.text_reviews_count,
          'publication_date': book.publication_date,
-         'publisher': book.publisher
+         'publisher': book.publisher tttt
       })
    return jsonify({"data": book_list})
 
